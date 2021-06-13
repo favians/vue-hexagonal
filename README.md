@@ -1,4 +1,4 @@
-# vue-hexagonal
+# vue-Typescript-hexagonal
 
 ## Build Setup
 
